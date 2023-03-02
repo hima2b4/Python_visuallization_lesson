@@ -16,8 +16,7 @@
 https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 </div></details>
  
- 
-  
+
 ## ■CHAPTER 02　ノーコードではじめるグラフ描画
 　CHAPTER 02 で、最初に使用する Notebook は、次の通りです。 
 
@@ -62,7 +61,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 </div></details>
 
- 
+
 ## ■CHAPTER 03　Pythonでグラフを描くプログラム
 
     下の▶ をクリックすると、COLUMN掲載の Pythonで描いたローズダイヤグラムが確認できます。
@@ -76,6 +75,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 
 </div></details>
+
 
 ## ■CHAPTER 04　実務で活かすためのテクニック
 
@@ -123,6 +123,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/d9ece2a1-ec01-bee1-1a7b-c7ee74289b23.png)
 
 </div></details>
+
 
 ## ■CHAPTER 06　機械学習モデルの最適化
 
