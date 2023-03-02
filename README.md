@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/90017759/222333279-2f9115a4-cbf7-4e79-8c5c-46f40662397b.png)
 
 
-# ■CHAPTER 01　Pythonによる視覚化
+## ■CHAPTER 01　Pythonによる視覚化
 　下の▶ をクリックすると、CHAPTER 01 掲載の ローズダイヤグラム（COLUMN DIAGRAM OF THE CAUSES OF MORTALITY）が確認できます。 
 
 <details><summary>ローズダイヤグラム（Wikipediaより）</summary><div>
@@ -15,7 +15,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
  
  
   
-# ■CHAPTER 02　ノーコードではじめるグラフ描画
+## ■CHAPTER 02　ノーコードではじめるグラフ描画
 　CHAPTER 02 で、最初に使用する Notebook は、次の通りです。 
 
 | Notebook（クリックで起動）　　　　 | 使用データセット | データ内容 | 
@@ -60,7 +60,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 </div></details>
 
  
-# ■CHAPTER 03　Pythonでグラフを描くプログラム
+## ■CHAPTER 03　Pythonでグラフを描くプログラム
 
     下の▶ をクリックすると、COLUMN掲載の Pythonで描いたローズダイヤグラムが確認できます。
 
@@ -74,7 +74,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 </div></details>
 
-# ■CHAPTER 04　実務で活かすためのテクニック
+## ■CHAPTER 04　実務で活かすためのテクニック
 
 　CHAPTER 04 で、最初に使用する Notebook は、次の通りです。 
 | Notebook（クリックで起動）　　　　　　　　 | 使用データセット | データ内容 | 
@@ -102,7 +102,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 | [**Pythonで視覚化[Dataprep編].ipynb**](https://colab.research.google.com/github/hima2b4/Python_visuallization_lesson/blob/main/Python%E3%81%A7%E8%A6%96%E8%A6%9A%E5%8C%96%5BDataprep%E7%B7%A8%5D.ipynb) | Loan_prediction :binary | 住宅ローンを取り扱う会社が管理する「ローン申請者の情報」と「ローン承認の是非」に関するデータ |
 
 
-# ■CHAPTER 05　データクリーニングのテクニック
+## ■CHAPTER 05　データクリーニングのテクニック
 　CHAPTER 05 で使用する Notebook は、次の通りです。 
 | Notebook（クリックで起動）　　　　　　　　 |使用データセット| データ内容 | 
 | :--- | :--- | :--- |
@@ -121,7 +121,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 </div></details>
 
-# ■CHAPTER 06　機械学習モデルの最適化
+## ■CHAPTER 06　機械学習モデルの最適化
 
     下の▶ をクリックすると、CHAPTER 06 掲載の 決定木画像 が確認できます。
 <details><summary>CHAPTER 06 掲載の決定木画像</summary><div>
@@ -136,7 +136,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 </div></details>
 
 
-# ■APPENDIX　Google ColabのForms機能について
+## ■APPENDIX　Google ColabのForms機能について
 　APPENDIX 記載内容を実行する Notebook は、次の通りです。 
 
 | Notebook（クリックで起動）　　　　　　　 | 内容 | 
