@@ -16,7 +16,7 @@
 https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 </div></details>
  
-
+***
 ## ■CHAPTER 02　ノーコードではじめるグラフ描画
 　CHAPTER 02 で、最初に使用する Notebook は、次の通りです。 
 
@@ -61,7 +61,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 </div></details>
 
-
+***
 ## ■CHAPTER 03　Pythonでグラフを描くプログラム
 
     下の▶ をクリックすると、COLUMN掲載の Pythonで描いたローズダイヤグラムが確認できます。
@@ -76,7 +76,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 </div></details>
 
-
+***
 ## ■CHAPTER 04　実務で活かすためのテクニック
 
 　CHAPTER 04 で、最初に使用する Notebook は、次の通りです。 
@@ -104,7 +104,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 | :--- | :--- | :--- |
 | [**Pythonで視覚化[Dataprep編].ipynb**](https://colab.research.google.com/github/hima2b4/Python_visuallization_lesson/blob/main/Python%E3%81%A7%E8%A6%96%E8%A6%9A%E5%8C%96%5BDataprep%E7%B7%A8%5D.ipynb) | Loan_prediction :binary | 住宅ローンを取り扱う会社が管理する「ローン申請者の情報」と「ローン承認の是非」に関するデータ |
 
-
+***
 ## ■CHAPTER 05　データクリーニングのテクニック
 　CHAPTER 05 で使用する Notebook は、次の通りです。 
 | Notebook（クリックで起動）　　　　　　　　 |使用データセット| データ内容 | 
@@ -124,7 +124,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 </div></details>
 
-
+***
 ## ■CHAPTER 06　機械学習モデルの最適化
 
     下の▶ をクリックすると、CHAPTER 06 掲載の 決定木画像 が確認できます。
@@ -139,10 +139,11 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 
 </div></details>
 
-
+***
 ## ■APPENDIX　Google ColabのForms機能について
 　APPENDIX 記載内容を実行する Notebook は、次の通りです。 
 
 | Notebook（クリックで起動）　　　　　　　 | 内容 | 
 | :--- | :--- |
 |  [**Google_Colab_Forms_適用例.ipynb**](https://colab.research.google.com/github/hima2b4/Python_visuallization_lesson/blob/main/Google_Colab_Forms_%E9%81%A9%E7%94%A8%E4%BE%8B.ipynb) | 正規分布確率を算出するプログラム に **Google Colab の Forms機能 を適用した例**です。|
+***
