@@ -6,6 +6,7 @@
 
 [**株式会社C&R研究所 書籍紹介ページ**](https://www.c-r.com/book/detail/1486)
 
+***
 ## ■CHAPTER 01　Pythonによる視覚化
 　下の▶ をクリックすると、CHAPTER 01 掲載の ローズダイヤグラム（COLUMN DIAGRAM OF THE CAUSES OF MORTALITY）が確認できます。 
 
