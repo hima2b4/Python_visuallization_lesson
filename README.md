@@ -1,5 +1,7 @@
 # Python_visuallization_lesson
-Pythonでゼロからはじめる視覚化　～Google Colabですぐに簡単に～
+
+**書籍『Pythonでゼロからはじめる視覚化　～Google Colabですぐに簡単に～』** で使用するNotebookと関連資料です。
+![image](https://user-images.githubusercontent.com/90017759/222333279-2f9115a4-cbf7-4e79-8c5c-46f40662397b.png)
 
 
 # ■CHAPTER 01　Pythonによる視覚化
