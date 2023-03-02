@@ -3,8 +3,7 @@
 **書籍『Pythonでゼロからはじめる視覚化　～Google Colabですぐに簡単に～』** で使用するNotebookと関連資料です。
 
 ![image](https://user-images.githubusercontent.com/90017759/222333279-2f9115a4-cbf7-4e79-8c5c-46f40662397b.png)
-
-https://www.c-r.com/book/detail/1486
+[**株式会社C&R研究所 書籍紹介ページ**](https://www.c-r.com/book/detail/1486)
 
 ## ■CHAPTER 01　Pythonによる視覚化
 　下の▶ をクリックすると、CHAPTER 01 掲載の ローズダイヤグラム（COLUMN DIAGRAM OF THE CAUSES OF MORTALITY）が確認できます。 
