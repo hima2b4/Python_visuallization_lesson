@@ -18,7 +18,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
  
 ***
 ## ■CHAPTER 02　ノーコードではじめるグラフ描画
-　CHAPTER 02 で、最初に使用する Notebook は、次の通りです。 
+　CHAPTER 02 で、**最初に使用する Notebook** は、次の通りです。 
 
 | Notebook（クリックで起動）　　　　 | 使用データセット | データ内容 | 
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 </div></details>
 
 ***
-　CHAPTER 02 で、2番目に使用する Notebook は、次の通りです。 
+　CHAPTER 02 で、**2番目に使用する Notebook** は、次の通りです。 
 
 | Notebook（クリックで起動）　  　　　　　　　| 使用データセット　　　 | データ内容 | 
 | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg
 </div></details>
 
 ***
-　CHAPTER 02 で、3番目に使用する Notebook は、次の通りです。 
+　CHAPTER 02 で、**3番目に使用する Notebook** は、次の通りです。 
 | Notebook（クリックで起動）　　 | 使用データセット | データ内容 | 
 | :--- | :--- | :--- |
 | [**Pythonで視覚化③.ipynb**](https://colab.research.google.com/github/hima2b4/Python_visuallization_lesson/blob/main/Python%E3%81%A7%E8%A6%96%E8%A6%9A%E5%8C%96%E2%91%A2.ipynb) | Titanic(seaborn) :binary | タイタニック号の乗客の生死に関する二値分類データ |
