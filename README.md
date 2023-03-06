@@ -15,7 +15,7 @@
 ```Python:scikit-learn ver指定してインストール
 !pip install scikit-learn==1.1.3
 ```
-<details><summary>Notebookへのコード追加（画像キャプチャで説明） </summary><div>
+<details><summary>コードを追加する位置（画像キャプチャで説明） </summary><div>
 
 ![combine_images (1).jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/b17cc22b-1455-2af1-cfc7-304445bfc01b.jpeg)
 
