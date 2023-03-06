@@ -7,6 +7,43 @@
 [**株式会社C&R研究所 書籍紹介ページ**](https://www.c-r.com/book/detail/1486)
 
 ***
+# FAQ
+- **pairplotを実行エラーの回避について(20230304)** 
+　scikit-learnの Ver.upの影響のようです。以下を実行することでエラー回避できます。
+　Notebookの「1.インストール」にセルを追加してください。（※ ▶Notebookへのコード追加画像 を参照してください。）
+
+```Python:scikit-learn ver指定してインストール
+!pip install scikit-learn==1.1.3
+```
+<details><summary>エラー表示</summary><div>
+    ImportError Traceback (most recent call last)
+    in
+    2
+    3
+    ----> 4 from seaborn_analyzer import CustomPairPlot
+    5
+    6 cp = CustomPairPlot()
+
+    1 frames
+    /usr/local/lib/python3.8/dist-packages/seaborn_analyzer/custom_class_plot.py in
+    5 import pandas as pd
+    6 from scipy import stats
+    ----> 7 from sklearn.metrics import auc, plot_roc_curve, roc_curve, RocCurveDisplay
+    8 from sklearn.model_selection import KFold, LeaveOneOut, GroupKFold, LeaveOneGroupOut
+    9 from sklearn.preprocessing import label_binarize
+
+    ImportError: cannot import name 'plot_roc_curve' from 'sklearn.metrics' (/usr/local/lib/python3.8/dist-packages/sklearn/metrics/init.py)
+</div></details>
+
+<details><summary>Notebookへのコード追加画像 </summary><div>
+
+![combine_images (1).jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/b17cc22b-1455-2af1-cfc7-304445bfc01b.jpeg)
+
+</div></details>
+
+
+
+***
 ## ■CHAPTER 01　Pythonによる視覚化
 　下の▶ をクリックすると、CHAPTER 01 掲載の ローズダイヤグラム（COLUMN DIAGRAM OF THE CAUSES OF MORTALITY）が確認できます。 
 
