@@ -10,12 +10,18 @@
 # FAQ
 - **pairplotを実行エラーの回避について(20230304)** 
 　scikit-learnの Ver.upの影響のようです。以下を実行することでエラー回避できます。
-　Notebookの「1.インストール」にセルを追加してください。（※ ▶Notebookへのコード追加画像 を参照してください。）
+　Notebookの「1.インストール」にセルを追加してください。（※ ▶Notebookへのコード追加 を参照してください。）
 
 ```Python:scikit-learn ver指定してインストール
 !pip install scikit-learn==1.1.3
 ```
-<details><summary>エラー表示</summary><div>
+<details><summary>Notebookへのコード追加（画像キャプチャで説明） </summary><div>
+
+![combine_images (1).jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/b17cc22b-1455-2af1-cfc7-304445bfc01b.jpeg)
+
+</div></details>
+
+<details><summary>エラー表示内容</summary><div>
     ImportError Traceback (most recent call last)
     in
     2
@@ -33,12 +39,6 @@
     9 from sklearn.preprocessing import label_binarize
 
     ImportError: cannot import name 'plot_roc_curve' from 'sklearn.metrics' (/usr/local/lib/python3.8/dist-packages/sklearn/metrics/init.py)
-</div></details>
-
-<details><summary>Notebookへのコード追加画像 </summary><div>
-
-![combine_images (1).jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/b17cc22b-1455-2af1-cfc7-304445bfc01b.jpeg)
-
 </div></details>
 
 
