@@ -12,7 +12,7 @@
 
 　scikit-learn の Ver.up により、実行時にエラーが出ることがわかりました。scikit-learn をVer.指定してインストールすれば、エラーは回避できます。
 
-- 以下のコードをNotebookのセルに追加して実行してください。（追加位置やエラーの内容は以下を参照下さい）
+- 以下のコードをNotebookのセルに追加して実行してください。（コード追加の位置やエラー内容は以下を参照下さい）
 ```Python:scikit-learn ver指定してインストール
 !pip install scikit-learn==1.1.3
 ```
