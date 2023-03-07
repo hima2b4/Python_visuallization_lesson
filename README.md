@@ -8,7 +8,8 @@
 
 ***
 # FAQ
-- **pairplot実行時のエラー回避方法について(20230304)** 
+- **PairPlot の実行エラーを回避する方法：20230307追加** 
+
 　scikit-learn の Ver.up により、実行時にエラーが出る（詳細は以下参照）ことがわかりました。 scikit-learn をVer.指定してインストールすれば、エラーは回避できます。
 
 ```Python:scikit-learn ver指定してインストール
