@@ -16,13 +16,13 @@
 ```Python:scikit-learn ver指定してインストール
 !pip install scikit-learn==1.1.3
 ```
-<details><summary>上記コードを追加するセル（画像キャプチャ） </summary><div>
+<details><summary>コード追加の位置（画像キャプチャ） </summary><div>
 
 ![combine_images (1).jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/b17cc22b-1455-2af1-cfc7-304445bfc01b.jpeg)
 
 </div></details>
 
-<details><summary>エラー表示内容</summary><div>
+<details><summary>エラー内容</summary><div>
     ImportError Traceback (most recent call last)
     in
     2
