@@ -13,12 +13,15 @@
 　scikit-learn の Ver.up により、実行時にエラーが出ることがわかりました。scikit-learn をVer.指定してインストールすれば、エラーは回避できます。
 
 - 以下のコードをNotebookのセルに追加して実行してください。（コード追加の位置やエラー内容は以下を参照下さい）
+- ※ scikit-learnを追加インストールするタイミングにより、挙動が異なるようです。Notebookメニューの[ランタイム] → セッションの管理 → アクティブなセッションをすべて終了（ゴミ箱マーククリック）→ 「1. インストール」のセルに「!pip install scikit-learn==1.1.3」を追加 → 最初のセルから順に起動 してください。
 ```Python:scikit-learn ver指定してインストール
 !pip install scikit-learn==1.1.3
 ```
 <details><summary>コード追加の位置（画像キャプチャ） </summary><div>
 
 ![combine_images (1).jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/b17cc22b-1455-2af1-cfc7-304445bfc01b.jpeg)
+以下のように [RESTART RUNTIME]ボタン が出てきた時は、ボタンを押して、データの読込みも再度実行してください。
+![image](https://user-images.githubusercontent.com/90017759/224654655-cf5be7f6-9f57-4932-8131-802dfc71d075.png)
 
 </div></details>
 
