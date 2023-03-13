@@ -21,7 +21,8 @@
 
 ![combine_images (1).jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/b17cc22b-1455-2af1-cfc7-304445bfc01b.jpeg)
 
-- 以下のように [RESTART RUNTIME]ボタン が出てきた時は、ボタンを押して、データの読込みも再度実行してください。
+    
+- 以下のように [RESTART RUNTIME]ボタン が表示された時は、ボタンを押して、データの読込みも再度実行してください。
 ![image](https://user-images.githubusercontent.com/90017759/224654655-cf5be7f6-9f57-4932-8131-802dfc71d075.png)
 
 </div></details>
