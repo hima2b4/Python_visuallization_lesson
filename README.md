@@ -50,7 +50,7 @@
 <details><summary>上記のコード追加したNotebookのLink</summary><div>
 
 | 内訳　　　　 | Link（クリックで起動） | 
-| :--- | :--- |
+| :--- | :---: |
 |**Pythonで視覚化①.ipynb** (scikit-learn 1.1.3 追加Ver)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Python_visuallization_lesson/blob/main/Python%E3%81%A7%E8%A6%96%E8%A6%9A%E5%8C%96%E2%91%A0_r1.ipynb)|
 |**Pythonで視覚化②.ipynb** (scikit-learn 1.1.3 追加Ver)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Python_visuallization_lesson/blob/main/Python%E3%81%A7%E8%A6%96%E8%A6%9A%E5%8C%96%E2%91%A1_r1.ipynb)|
 |**Pythonで視覚化③.ipynb** (scikit-learn 1.1.3 追加Ver)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Python_visuallization_lesson/blob/main/Python%E3%81%A7%E8%A6%96%E8%A6%9A%E5%8C%96%E2%91%A2_r1.ipynb)|
